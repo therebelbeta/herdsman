@@ -1,0 +1,29 @@
+{
+  "name": "herdsman",
+  "version": "0.0.1",
+  "description": "A node/mithril dashboard to monitor and manage server microservices. WIP.",
+  "main": "app.js",
+  "scripts": {
+    "test": "standard; mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelrobot/herdsman.git"
+  },
+  "keywords": [
+    "herd",
+    "herdsman",
+    "micro",
+    "microservices",
+    "monitor",
+    "manage",
+    "server",
+    "development"
+  ],
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/herdsman/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/herdsman#readme"
+}
